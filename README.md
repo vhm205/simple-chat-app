@@ -1,9 +1,9 @@
 # simple-chat-app
 
 ### How to run?
-- run server (**PORT 1002**):
+- Run server (**PORT 1002**):
   - yarn start or yarn dev
-- run client (**PORT 3000**):
+- Run client (**PORT 3000**):
   - yarn start
 
-> open browser & enter localhost:3000
+> Open browser & enter localhost:3000
